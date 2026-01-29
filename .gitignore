@@ -3,3 +3,18 @@ data/raw/
 reports/figures/
 reports/tables/
 !reports/final/
+#虚拟环境
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
